@@ -36,3 +36,4 @@ if st.button("Predict"):
     pred = model.predict(df)
 
     st.success(f"Predicted Class: {int(pred[0])}")
+    
