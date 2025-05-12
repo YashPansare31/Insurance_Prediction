@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/ml-project/mlruns/263174687246239387/15213d1273864535a2f38acca8c28181/artifacts
+end_time: 1746940117133
+entry_point_name: ''
+experiment_id: '263174687246239387'
+lifecycle_stage: active
+run_id: 15213d1273864535a2f38acca8c28181
+run_name: treasured-bug-687
+run_uuid: 15213d1273864535a2f38acca8c28181
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746940019170
+status: 3
+tags: []
+user_id: pc
