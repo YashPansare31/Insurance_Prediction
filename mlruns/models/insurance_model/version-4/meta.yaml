@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1747065848267
+current_stage: None
+description: null
+last_updated_timestamp: 1747065848267
+name: insurance_model
+run_id: 3d0927f5746f4d2cb9030d8fcd534da9
+run_link: null
+source: file:///C:/ml-project/mlruns/263174687246239387/3d0927f5746f4d2cb9030d8fcd534da9/artifacts/model
+status: READY
+status_message: null
+storage_location: file:///C:/ml-project/mlruns/263174687246239387/3d0927f5746f4d2cb9030d8fcd534da9/artifacts/model
+user_id: null
+version: 4

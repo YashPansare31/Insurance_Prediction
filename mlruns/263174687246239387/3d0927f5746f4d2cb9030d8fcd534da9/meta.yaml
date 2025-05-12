@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/ml-project/mlruns/263174687246239387/3d0927f5746f4d2cb9030d8fcd534da9/artifacts
+end_time: 1747065848539
+entry_point_name: ''
+experiment_id: '263174687246239387'
+lifecycle_stage: active
+run_id: 3d0927f5746f4d2cb9030d8fcd534da9
+run_name: bald-cub-788
+run_uuid: 3d0927f5746f4d2cb9030d8fcd534da9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747065636145
+status: 3
+tags: []
+user_id: pc
