@@ -43,32 +43,16 @@ make run
 ```
 This script will load the data, preprocess it, train the model, and save the trained model to the models/ directory.
 
-#### 5. FastAPI
-Start the FastAPI application by running:
+#### 5. Streamlit
+Start the Streamlit application by running:
 
 ```bash
-uvicorn app:app --reload
+streamlit run app.py 
 ```
 
-#### 6. Docker
-To build the Docker image and run the container:
-
-```bash
-docker build -t my_fastapi .
-```
-```bash
-docker run -p 80:80 my_fastapi
-```
-Once your Docker image is built, you can push it to Docker Hub, making it accessible for deployment on any cloud platform.
-#### 7. Monitor the Model
+### 6. Monitor the Model
 Integrate Evidently AI to monitor the model for data drift and performance degradation:
 
 ```bash
 run monitor.ipynb file
 ```
-
-## License
-
-Copyright © 2024, [Prasad Mahamulkar](https://github.com/prsdm).
-
-Released under the [Apache-2.0 license](LICENSE).
